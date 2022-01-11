@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+.. openapi:: specs/openapi.yml
