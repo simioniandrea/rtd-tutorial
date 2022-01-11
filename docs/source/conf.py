@@ -17,7 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib-openapi'
+    'sphinxcontrib.openapi'
 ]
 
 intersphinx_mapping = {
